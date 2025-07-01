@@ -40,4 +40,4 @@ This project analyzes bike sales using real-world-inspired customer data. It inc
 ## Files Included
 
 - `Bike Sales Dashboard.xlsx`: Contains cleaned data, pivot tables, and the final dashboard
-- `README.md`: Project overvie
+- `README.md`: Project overview
